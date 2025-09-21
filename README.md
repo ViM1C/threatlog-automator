@@ -143,6 +143,7 @@ Edit `config.json` to change:
 ```
 ![Replay Mode Example](images/replay_mode.png)
 ![Follow Mode Example](images/follow_mode.png)
+![View Alerts Example](images/view_alerts.png)
 
 
 
