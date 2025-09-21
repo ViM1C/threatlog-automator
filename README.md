@@ -2,9 +2,12 @@
 
 
 
-A Python-based log monitoring tool that detects failed logins and sudo usage from system logs.  
+ThreatLog Automator is a Python-based tool I built to explore real-time log monitoring and security automation.  
+It detects failed logins and sudo usage from system logs, triggers alerts in real-time or in replay mode,  
+and stores everything in a SQLite database for review.  
 
-Supports \*\*real-time monitoring\*\* and \*\*replay mode\*\*, storing all alerts in a SQLite database.
+This project gave me hands-on experience with Python scripting, data parsing, and event-driven automation —  skills I’m continuing to build as I move into larger security automation projects.
+
 
 
 
