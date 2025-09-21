@@ -141,6 +141,7 @@ Edit `config.json` to change:
 \[ALERT] failed\_login | time=2025-09-21T15:30:12 | ip=203.0.113.10 | user=admin | Sep 21 10:00:01 myhost sshd\[11111]: Failed password for invalid user admin
 
 ```
+![Replay Mode Example](images/replay_mode.png)
 
 
 
