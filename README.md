@@ -141,8 +141,16 @@ Edit `config.json` to change:
 \[ALERT] failed\_login | time=2025-09-21T15:30:12 | ip=203.0.113.10 | user=admin | Sep 21 10:00:01 myhost sshd\[11111]: Failed password for invalid user admin
 
 ```
+**Replay Mode – Historical Log Processing**  
+Processes existing logs in bulk and generates alerts for each detection.  
 ![Replay Mode Example](images/replay_mode.png)
+
+**Follow Mode – Real-Time Detection**  
+Monitors logs live and triggers alerts instantly as new events appear.  
 ![Follow Mode Example](images/follow_mode.png)
+
+**View Alerts – Database Output**  
+Displays all stored alerts in a clean table format for easy review.  
 ![View Alerts Example](images/view_alerts.png)
 
 
