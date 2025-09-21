@@ -1,0 +1,12 @@
+{
+  "log_path": "logs/sample_auth.log",
+  "rules": {
+    "failed_login_burst": {
+      "threshold": 1,
+      "window_minutes": 2
+    },
+    "sudo_usage": {
+      "alert": true
+    }
+  }
+}
